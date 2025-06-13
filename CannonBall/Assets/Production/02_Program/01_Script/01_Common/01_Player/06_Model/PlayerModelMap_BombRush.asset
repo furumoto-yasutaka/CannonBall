@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a2a55e346939ae4fbce135a9aade888, type: 3}
+  m_Name: PlayerModelMap_BombRush
+  m_EditorClassIdentifier: 
+  m_PlayerModels:
+    m_Models:
+    - {fileID: 2083581568229065350, guid: 233f548858b1ef143841986320fe7575, type: 3}
+    - {fileID: 1450890404159858491, guid: 5bd33236f535773438c1558c08ae66cd, type: 3}
+    - {fileID: 6371963693311286496, guid: e913cb05d3362d54bb42274d1a829782, type: 3}
+    - {fileID: 1850329164208223950, guid: 5bce0ada2b6fc564a9389d8cf24c2320, type: 3}

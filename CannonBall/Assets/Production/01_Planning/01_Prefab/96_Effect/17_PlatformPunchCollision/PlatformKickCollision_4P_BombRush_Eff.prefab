@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7078202931584248025
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 249753698707397478, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_Name
+      value: PlatformKickCollision_4P_BombRush_Eff
+      objectReference: {fileID: 0}
+    - target: {fileID: 689283482409555839, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 07bc7f130ee5fe645bbb5eb6726c4f64, type: 2}
+    - target: {fileID: 1447243252386558340, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 300000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2325550295264825396, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 07bc7f130ee5fe645bbb5eb6726c4f64, type: 2}
+    - target: {fileID: 8530358090018410054, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8530358090018410054, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8530358090018410054, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8530358090018410054, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8530358090018410054, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8530358090018410054, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8530358090018410054, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8530358090018410054, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8530358090018410054, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8530358090018410054, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8952025404736135497, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 23873.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 8952025404736135497, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: -7.107155e+37
+      objectReference: {fileID: 0}
+    - target: {fileID: 8952025404736135497, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8952025404736135497, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.y
+      value: -7.107155e+37
+      objectReference: {fileID: 0}
+    - target: {fileID: 8952025404736135497, guid: 36c9449532029804795c28c2e3845700,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: 8.72e-43
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 36c9449532029804795c28c2e3845700, type: 3}

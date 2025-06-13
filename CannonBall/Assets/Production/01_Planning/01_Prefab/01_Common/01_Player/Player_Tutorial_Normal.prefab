@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2826649900512516837
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 194897957397760208, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1406296883739167997, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1406296883739167997, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1406296883739167997, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1917212331170079443, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 2150536038730739328, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4907416325502191486, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_IncludeLayers.m_Bits
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6218202002516532191, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_Name
+      value: Player_Tutorial_Normal
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165535381737414724, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_kickPlayerPower
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165535381737414724, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_kickPlayerRecoil
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165535381737414724, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_kickPlatformPower
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7172474787524607356, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 61646ddf77b40db4bb804fbc5a2fa205,
+        type: 3}
+    - target: {fileID: 7193628689723001000, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LinearDrag
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7193628689723001000, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_GravityScale
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800067564302816361, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_swingBorder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8effabc44573c4448bf6529d56aa4bdb, type: 3}

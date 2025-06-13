@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f24097f3454f9748b24b7bca0e0e612, type: 3}
+  m_Name: PlayerFaceMap
+  m_EditorClassIdentifier: 
+  m_Faces:
+  - {fileID: 2800000, guid: d2daab71acfcb0b478ae7bd113c7411c, type: 3}
+  - {fileID: 2800000, guid: 8c50fa85468050243abcf2986b9b4cbe, type: 3}
+  - {fileID: 2800000, guid: 8e154f3c4f28d984cbb3ab1b9b1865ff, type: 3}
+  - {fileID: 2800000, guid: 41e9560e5546b7344b10705d30835f01, type: 3}
+  - {fileID: 2800000, guid: 16c73951f69771843bfe1e2ef5e8f599, type: 3}

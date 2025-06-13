@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6910d6c43c9854aa74977931865105, type: 3}
+  m_Name: BlownAwayEffectMap
+  m_EditorClassIdentifier: 
+  m_Effects:
+  - {fileID: 6975432690415855519, guid: 2c2a0c1b1f7a79e4394bfc230f1d37b7, type: 3}
+  - {fileID: 496712978454363148, guid: 6b8b4dff3e1280a4692ef12c5f301404, type: 3}
+  - {fileID: 6997670145559271268, guid: 7398bf596c780a847b406747ac1d89e4, type: 3}
+  - {fileID: 8455586673748583551, guid: c2c7a77d25def0547b754f94dec01c3c, type: 3}

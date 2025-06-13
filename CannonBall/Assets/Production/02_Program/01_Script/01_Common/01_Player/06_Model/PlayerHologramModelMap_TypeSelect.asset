@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a1368ade375e4499bc54613d4c19b5, type: 3}
+  m_Name: PlayerHologramModelMap_TypeSelect
+  m_EditorClassIdentifier: 
+  m_PlayerModelsByType:
+  - m_Models:
+    - {fileID: 9131545214459193031, guid: 411b84b53c6cd664a9332474dee7fab6, type: 3}
+    - {fileID: 9131545214459193031, guid: cbc1c2b700815534992354a6391fa50d, type: 3}
+    - {fileID: 2617368254707631504, guid: 3813dc7d00a86d34399b39ceb75871bd, type: 3}
+    - {fileID: 6309928366922618978, guid: 95649c23542d42946b4bb05c815fef4b, type: 3}
+  - m_Models:
+    - {fileID: 1513565228808269056, guid: b185ae739b3870a459b8a190d15ff1f7, type: 3}
+    - {fileID: 1513565228808269056, guid: b20912aff4a730a468738e2633336c90, type: 3}
+    - {fileID: 1513565228808269056, guid: 134041207d797a143bb3c6bd8b0c7704, type: 3}
+    - {fileID: 1513565228808269056, guid: 5ec6820695ea2b8419b4ee307c31263c, type: 3}
+  - m_Models:
+    - {fileID: 1513565228808269056, guid: af282777cce8638409ca22861bb50ac0, type: 3}
+    - {fileID: 1513565228808269056, guid: 597ab84a011ff094a8d99bfee17411ed, type: 3}
+    - {fileID: 1513565228808269056, guid: 59d30b5954c58b64092bb20efde54b1d, type: 3}
+    - {fileID: 1513565228808269056, guid: bf63ab9b96be01d4791f49aebc939d16, type: 3}

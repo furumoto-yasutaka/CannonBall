@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5492831495316433172
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3243705529302594676}
+  - component: {fileID: 2954911955059902905}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3243705529302594676
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5492831495316433172}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2954911955059902905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5492831495316433172}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0e00dc73e4ae064e819a000305b856b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_bgmVolume: 1
+  m_seVolume: 1
+  m_bgmPlaybackNum: 3
+  m_sePlaybackNum: 20
+  m_isMuteBgm: 0
+  m_isMuteSe: 0
+  m_bgmInfoInspector:
+  - m_Name: "\u30BF\u30A4\u30C8\u30EB"
+    m_Clip: {fileID: 8300000, guid: cec6bc0e3961bd24f939a32efae8b18c, type: 3}
+    m_Volume: 1
+  - m_Name: "\u30AD\u30E3\u30CE\u30F3\u30D5\u30A1\u30A4\u30C8"
+    m_Clip: {fileID: 8300000, guid: dab59bc0da5975148983cbcbfd749953, type: 3}
+    m_Volume: 0.08
+  - m_Name: "\u30DC\u30E0\u30E9\u30C3\u30B7\u30E5"
+    m_Clip: {fileID: 8300000, guid: 4e5d8067538b9464fb3cb971e1e5786e, type: 3}
+    m_Volume: 1
+  - m_Name: "\u30C7\u30F3\u30B8\u30E3\u30E9\u30F3"
+    m_Clip: {fileID: 8300000, guid: a6280c564256ee943ae6c55fc4feff30, type: 3}
+    m_Volume: 1
+  - m_Name: "\u30EA\u30B6\u30EB\u30C8"
+    m_Clip: {fileID: 8300000, guid: 53b7641d8405f554593c4b600089da93, type: 3}
+    m_Volume: 1
+  - m_Name: "\u6B53\u58F0"
+    m_Clip: {fileID: 8300000, guid: 2b75d909419ccfe4ea30e921741dbd6d, type: 3}
+    m_Volume: 0.05
+  m_seInfoInspector:
+  - m_Name: "\u30D7\u30EC\u30A4\u30E4\u30FC_\u8E74\u308A\u306E\u98A8\u5207\u308A\u97F3_\u30D0\u30E9\u30F3\u30B9"
+    m_Clip: {fileID: 8300000, guid: eed140f2ed2b6fc4995eb4969c8f621e, type: 3}
+    m_Volume: 0.15
+  - m_Name: "\u30D7\u30EC\u30A4\u30E4\u30FC_\u8E74\u308A\u306E\u30DB\u30ED\u30B0\u30E9\u30E0\u97F3_\u30D0\u30E9\u30F3\u30B9"
+    m_Clip: {fileID: 8300000, guid: eb57e4e7fb3299841b4facfdf8d465ea, type: 3}
+    m_Volume: 0.25
+  - m_Name: "\u30D7\u30EC\u30A4\u30E4\u30FC_\u8E74\u308A\u306E\u98A8\u5207\u308A\u97F3_\u30D1\u30EF\u30FC"
+    m_Clip: {fileID: 8300000, guid: 32d3aecf9a8bbf84e8df93dc565893a2, type: 3}
+    m_Volume: 0.2
+  - m_Name: "\u30D7\u30EC\u30A4\u30E4\u30FC_\u8E74\u308A\u306E\u30DB\u30ED\u30B0\u30E9\u30E0\u97F3_\u30D1\u30EF\u30FC"
+    m_Clip: {fileID: 8300000, guid: 7b644aeee731ff444abdac56e7be9f02, type: 3}
+    m_Volume: 0.35
+  - m_Name: "\u30D7\u30EC\u30A4\u30E4\u30FC_\u8E74\u308A\u306E\u98A8\u5207\u308A\u97F3_\u30B9\u30D4\u30FC\u30C9"
+    m_Clip: {fileID: 8300000, guid: c3f9f8551be12c145bc44255c8c0bd8b, type: 3}
+    m_Volume: 0.1
+  - m_Name: "\u30D7\u30EC\u30A4\u30E4\u30FC_\u8E74\u308A\u306E\u30DB\u30ED\u30B0\u30E9\u30E0\u97F3_\u30B9\u30D4\u30FC\u30C9"
+    m_Clip: {fileID: 8300000, guid: 52d5fdc02581954418acf0ef2e6b1798, type: 3}
+    m_Volume: 0.35
+  - m_Name: "\u30D7\u30EC\u30A4\u30E4\u30FC_\u30D0\u30A6\u30F3\u30C9"
+    m_Clip: {fileID: 8300000, guid: b00361cc4f8f84548ab57920ad54ba81, type: 3}
+    m_Volume: 0.065
+  - m_Name: "\u30D7\u30EC\u30A4\u30E4\u30FC_\u30D2\u30C3\u30C8\u97F3(\u30D7\u30EC\u30A4\u30E4\u30FC\u7B49)_\u30D0\u30E9\u30F3\u30B9"
+    m_Clip: {fileID: 8300000, guid: 1e82e2255feff92469fb97115c785feb, type: 3}
+    m_Volume: 0.55
+  - m_Name: "\u30D7\u30EC\u30A4\u30E4\u30FC_\u30D2\u30C3\u30C8\u97F3(\u30D7\u30EC\u30A4\u30E4\u30FC\u7B49)_\u30D1\u30EF\u30FC"
+    m_Clip: {fileID: 8300000, guid: 8beed39d415d4e94aae58f34e986127d, type: 3}
+    m_Volume: 0.85
+  - m_Name: "\u30D7\u30EC\u30A4\u30E4\u30FC_\u30D2\u30C3\u30C8\u97F3(\u30D7\u30EC\u30A4\u30E4\u30FC\u7B49)_\u30B9\u30D4\u30FC\u30C9"
+    m_Clip: {fileID: 8300000, guid: 85561e116640c7d47bc37a5c57fc1cc1, type: 3}
+    m_Volume: 0.55
+  - m_Name: "\u30D7\u30EC\u30A4\u30E4\u30FC_\u30D2\u30C3\u30C8\u97F3(\u5730\u5F62)"
+    m_Clip: {fileID: 8300000, guid: 96af084941f99084b918cb574b4e6e79, type: 3}
+    m_Volume: 0.7
+  - m_Name: "\u30EA\u30B9\u30DD\u30FC\u30F3_\u98DB\u3073\u51FA\u3059\u97F3"
+    m_Clip: {fileID: 8300000, guid: e5bcac53d7f338b4189327d5eb097e0f, type: 3}
+    m_Volume: 0.5
+  - m_Name: "\u30EA\u30B9\u30DD\u30FC\u30F3_\u30AF\u30E9\u30AF\u30B7\u30E7\u30F3"
+    m_Clip: {fileID: 8300000, guid: 80e7001955af8f846a324fcec19180ef, type: 3}
+    m_Volume: 0.15
+  - m_Name: "\u8A66\u5408\u958B\u59CB_\u30EC\u30C7\u30A3"
+    m_Clip: {fileID: 8300000, guid: c72a1db721f0db74badd8196318fe334, type: 3}
+    m_Volume: 0.6
+  - m_Name: "\u8A66\u5408\u958B\u59CB_\u30B4\u30FC"
+    m_Clip: {fileID: 8300000, guid: 571204607bcc3284483513cc790a643c, type: 3}
+    m_Volume: 0.15
+  - m_Name: "\u8A66\u5408\u7D42\u4E86_\u30B2\u30FC\u30E0\u30BB\u30C3\u30C8"
+    m_Clip: {fileID: 8300000, guid: bb4305422fee74344afaa5e2e489a1ed, type: 3}
+    m_Volume: 0.15
+  - m_Name: "\u30AD\u30E3\u30CE\u30F3\u30D5\u30A1\u30A4\u30C8_\u5FC5\u6BBA\u30B2\u30FC\u30B8\u6E80\u30BF\u30F3\u6642"
+    m_Clip: {fileID: 8300000, guid: 35d5236a57d3a4e45b6a8b5d913570ae, type: 3}
+    m_Volume: 0.2
+  - m_Name: "\u30AD\u30E3\u30CE\u30F3\u30D5\u30A1\u30A4\u30C8_\u5834\u5916\u6642\u306E\u97F3"
+    m_Clip: {fileID: 8300000, guid: cce0d8cc0a7fc114a9c1cf06707fb76a, type: 3}
+    m_Volume: 0.3
+  - m_Name: "\u30AD\u30E3\u30CE\u30F3\u30D5\u30A1\u30A4\u30C8_\u5834\u5916\u6642\u306E\u6B53\u58F0"
+    m_Clip: {fileID: 8300000, guid: 304aa51148f30084699e9e8c56840684, type: 3}
+    m_Volume: 0.2

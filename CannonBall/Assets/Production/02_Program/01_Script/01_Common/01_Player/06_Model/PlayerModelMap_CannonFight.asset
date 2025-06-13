@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a1368ade375e4499bc54613d4c19b5, type: 3}
+  m_Name: PlayerModelMap_CannonFight
+  m_EditorClassIdentifier: 
+  m_PlayerModelsByType:
+  - m_Models:
+    - {fileID: 4462949129272537031, guid: 5513532a52de845428ceb6eb0e7fa22a, type: 3}
+    - {fileID: 6313130718672625769, guid: 56b54f275dd61f04da38f3b2ede9fe05, type: 3}
+    - {fileID: 7947211904883072083, guid: b7f0960ead5168d47970191972e325f0, type: 3}
+    - {fileID: 5221533781564809438, guid: 110a969f5b046554bb24113bd72da5ef, type: 3}
+  - m_Models:
+    - {fileID: 4462949129272537031, guid: 5513532a52de845428ceb6eb0e7fa22a, type: 3}
+    - {fileID: 6313130718672625769, guid: 56b54f275dd61f04da38f3b2ede9fe05, type: 3}
+    - {fileID: 7947211904883072083, guid: b7f0960ead5168d47970191972e325f0, type: 3}
+    - {fileID: 5221533781564809438, guid: 110a969f5b046554bb24113bd72da5ef, type: 3}
+  - m_Models:
+    - {fileID: 4462949129272537031, guid: 5513532a52de845428ceb6eb0e7fa22a, type: 3}
+    - {fileID: 6313130718672625769, guid: 56b54f275dd61f04da38f3b2ede9fe05, type: 3}
+    - {fileID: 7947211904883072083, guid: b7f0960ead5168d47970191972e325f0, type: 3}
+    - {fileID: 5221533781564809438, guid: 110a969f5b046554bb24113bd72da5ef, type: 3}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4269b393dd9d24443a3d576afadc9320, type: 3}
+  m_Name: Z_DebugMenu
+  m_EditorClassIdentifier: 
+  m_mapName: Z_DebugMenu
+  m_inputActionList_Button:
+  - m_actionName: Submit
+    m_joyconActionIdList_Inspector: 01000000
+    m_padActionIdList_Inspector: 05000000
+  - m_actionName: ShowAndHide_LeftStick
+    m_joyconActionIdList_Inspector: 
+    m_padActionIdList_Inspector: 0e000000
+  - m_actionName: ShowAndHide_RightStick
+    m_joyconActionIdList_Inspector: 
+    m_padActionIdList_Inspector: 0f000000
+  m_inputActionList_Trigger: []
+  m_inputActionList_Vector2:
+  - m_actionName: Cursor
+    m_joyconActionIdList_Inspector: 0000000001000000
+    m_padActionIdList_Inspector: 0000000001000000
+  m_inputActionList_Vector3: []

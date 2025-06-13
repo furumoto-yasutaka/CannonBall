@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3853734914846677746
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3853734914846677747}
+  - component: {fileID: 2404287305515296147}
+  m_Layer: 0
+  m_Name: EffectContainer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3853734914846677747
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3853734914846677746}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2404287305515296147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3853734914846677746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b83c71cdc1dafa40879225c777775bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EffectPrefabs:
+  - name: "\u8E74\u308A\u98A8\u5207\u308A_\u30D0\u30E9\u30F3\u30B9"
+    Effect: {fileID: 7556240182852329564, guid: c726d353fd2555d4eaac4af89de6a884,
+      type: 3}
+  - name: "\u8E74\u308A\u98A8\u5207\u308A_\u30D1\u30EF\u30FC"
+    Effect: {fileID: 3314622449669012696, guid: eb341016b69852f4f8b27d2288b37bdb,
+      type: 3}
+  - name: "\u8E74\u308A\u98A8\u5207\u308A_\u30B9\u30D4\u30FC\u30C9"
+    Effect: {fileID: 4026850810956387007, guid: 99ef2ff91888dc446ba26e95a9632dc9,
+      type: 3}
+  - name: "\u30DB\u30ED\u30B0\u30E9\u30E0\u30D2\u30C3\u30C8\u6642\u30A8\u30D5\u30A7\u30AF\u30C8_1P_\u30D0\u30E9\u30F3\u30B9"
+    Effect: {fileID: 6972605234641598965, guid: 1ce0d5c9a75d615468cfeb320ecec28d,
+      type: 3}
+  - name: "\u30DB\u30ED\u30B0\u30E9\u30E0\u30D2\u30C3\u30C8\u6642\u30A8\u30D5\u30A7\u30AF\u30C8_1P_\u30D1\u30EF\u30FC"
+    Effect: {fileID: 8791903746852466898, guid: 91d5fbcce9536dd48b2fadd4dfe56e42,
+      type: 3}
+  - name: "\u30DB\u30ED\u30B0\u30E9\u30E0\u30D2\u30C3\u30C8\u6642\u30A8\u30D5\u30A7\u30AF\u30C8_1P_\u30B9\u30D4\u30FC\u30C9"
+    Effect: {fileID: 7600620346177682847, guid: 57f1942f2fb738a4daa1b8ea38a7f16f,
+      type: 3}
+  - name: "\u30DB\u30ED\u30B0\u30E9\u30E0\u30D2\u30C3\u30C8\u6642\u30A8\u30D5\u30A7\u30AF\u30C8_2P_\u30D0\u30E9\u30F3\u30B9"
+    Effect: {fileID: 7064512984377590247, guid: ebbd79504e88be04299c23a85635870d,
+      type: 3}
+  - name: "\u30DB\u30ED\u30B0\u30E9\u30E0\u30D2\u30C3\u30C8\u6642\u30A8\u30D5\u30A7\u30AF\u30C8_2P_\u30D1\u30EF\u30FC"
+    Effect: {fileID: 2934047609485609187, guid: d29f334640635d94eaa86a5adbc3e985,
+      type: 3}
+  - name: "\u30DB\u30ED\u30B0\u30E9\u30E0\u30D2\u30C3\u30C8\u6642\u30A8\u30D5\u30A7\u30AF\u30C8_2P_\u30B9\u30D4\u30FC\u30C9"
+    Effect: {fileID: 7659619052168273020, guid: 2fafc2a4dd1ea5e49973183d2b6f27b2,
+      type: 3}
+  - name: "\u30DB\u30ED\u30B0\u30E9\u30E0\u30D2\u30C3\u30C8\u6642\u30A8\u30D5\u30A7\u30AF\u30C8_3P_\u30D0\u30E9\u30F3\u30B9"
+    Effect: {fileID: 101772561494865390, guid: fab30f0baac10df45b3334a294f831b1, type: 3}
+  - name: "\u30DB\u30ED\u30B0\u30E9\u30E0\u30D2\u30C3\u30C8\u6642\u30A8\u30D5\u30A7\u30AF\u30C8_3P_\u30D1\u30EF\u30FC"
+    Effect: {fileID: 4630989922554273382, guid: 8cc3b31f25b50614fa01dcea1b5ca4e5,
+      type: 3}
+  - name: "\u30DB\u30ED\u30B0\u30E9\u30E0\u30D2\u30C3\u30C8\u6642\u30A8\u30D5\u30A7\u30AF\u30C8_3P_\u30B9\u30D4\u30FC\u30C9"
+    Effect: {fileID: 2967219931921749222, guid: 2357a3b6b7eb2ae49a7a36bb9475ce5b,
+      type: 3}
+  - name: "\u30DB\u30ED\u30B0\u30E9\u30E0\u30D2\u30C3\u30C8\u6642\u30A8\u30D5\u30A7\u30AF\u30C8_4P_\u30D0\u30E9\u30F3\u30B9"
+    Effect: {fileID: 5565810746279341347, guid: 2ac4cdb520c574c48bc53113552204dd,
+      type: 3}
+  - name: "\u30DB\u30ED\u30B0\u30E9\u30E0\u30D2\u30C3\u30C8\u6642\u30A8\u30D5\u30A7\u30AF\u30C8_4P_\u30D1\u30EF\u30FC"
+    Effect: {fileID: 3421922545954395628, guid: 46830443883c21a41b0ecd67f7045191,
+      type: 3}
+  - name: "\u30DB\u30ED\u30B0\u30E9\u30E0\u30D2\u30C3\u30C8\u6642\u30A8\u30D5\u30A7\u30AF\u30C8_4P_\u30B9\u30D4\u30FC\u30C9"
+    Effect: {fileID: 2178795469269931253, guid: 4b05a3f72ebba7c46a2c751a88964918,
+      type: 3}
+  - name: "\u30D0\u30F3\u30D1\u30FC\u63A5\u89E6"
+    Effect: {fileID: 3365817955104658321, guid: acecde0a0a14a05429431dedc431f81e,
+      type: 3}
+  - name: "\u6700\u521D\u306E\u30B9\u30DD\u30FC\u30F3"
+    Effect: {fileID: 7919672834593082144, guid: 876fddcb0dc2aa640b68ea5facb2d245,
+      type: 3}
+  - name: "\u30EA\u30B9\u30DD\u30FC\u30F3"
+    Effect: {fileID: 7176640718061061078, guid: 4355bc740517016439da1d7061f52d3a,
+      type: 3}
+  - name: "\u7206\u5F3E(\u5927)_\u7206\u767A"
+    Effect: {fileID: 5723293515610559202, guid: a2e74f8dc540b134b9d4e2511b801ae3,
+      type: 3}
+  - name: "\u5730\u5F62\u8E74\u308A\u6642_1P"
+    Effect: {fileID: 3322050846578430955, guid: 810ed8787ea377948bfcbb2f7b73d9a2,
+      type: 3}
+  - name: "\u5730\u5F62\u8E74\u308A\u6642_2P"
+    Effect: {fileID: 346369622152786556, guid: 1e37debbf80256e46b2a0a0bf518901b, type: 3}
+  - name: "\u5730\u5F62\u8E74\u308A\u6642_3P"
+    Effect: {fileID: 5890577354812586596, guid: 0eebfd349df85f242b0390e5cb8620c2,
+      type: 3}
+  - name: "\u5730\u5F62\u8E74\u308A\u6642_4P"
+    Effect: {fileID: 249753698707397478, guid: 36c9449532029804795c28c2e3845700, type: 3}
+  - name: "\u5730\u5F62\u885D\u7A81\u6642(\u5927)_1P"
+    Effect: {fileID: 6386620830676642874, guid: 9b70779bd253ca94eb99ca42650326dd,
+      type: 3}
+  - name: "\u5730\u5F62\u885D\u7A81\u6642(\u4E2D)_1P"
+    Effect: {fileID: 1664360469460277051, guid: 7fb79104b1ab1214c9fcb7caa8e9e4a8,
+      type: 3}
+  - name: "\u5730\u5F62\u885D\u7A81\u6642(\u5C0F)_1P"
+    Effect: {fileID: 6111597926045840807, guid: f628ac9260b10b14293dd6fadccf454d,
+      type: 3}
+  - name: "\u5730\u5F62\u885D\u7A81\u6642(\u5927)_2P"
+    Effect: {fileID: 8218696280052670593, guid: d090c62fd04416048a92558f371bdb80,
+      type: 3}
+  - name: "\u5730\u5F62\u885D\u7A81\u6642(\u4E2D)_2P"
+    Effect: {fileID: 8567949841088969284, guid: e4bf74b6c6c094a47b6bd9a3e419c1db,
+      type: 3}
+  - name: "\u5730\u5F62\u885D\u7A81\u6642(\u5C0F)_2P"
+    Effect: {fileID: 7896032112571655560, guid: 360dbae24ed999f4f970ec10f542ad30,
+      type: 3}
+  - name: "\u5730\u5F62\u885D\u7A81\u6642(\u5927)_3P"
+    Effect: {fileID: 6349058952034916705, guid: 7379b4a751ca74c4f91d02cefd23285c,
+      type: 3}
+  - name: "\u5730\u5F62\u885D\u7A81\u6642(\u4E2D)_3P"
+    Effect: {fileID: 5367107659749168108, guid: 57755a50477ea754599e36efcdcc93ae,
+      type: 3}
+  - name: "\u5730\u5F62\u885D\u7A81\u6642(\u5C0F)_3P"
+    Effect: {fileID: 2734596586875339944, guid: 8ddec8e042946e54fa6d1c180d3def9b,
+      type: 3}
+  - name: "\u5730\u5F62\u885D\u7A81\u6642(\u5927)_4P"
+    Effect: {fileID: 335002450178231895, guid: fc591ffcce200014d9fb92bc57e57572, type: 3}
+  - name: "\u5730\u5F62\u885D\u7A81\u6642(\u4E2D)_4P"
+    Effect: {fileID: 6249231858463113138, guid: 77e20e79b8d6fa548a9657b8ea34b965,
+      type: 3}
+  - name: "\u5730\u5F62\u885D\u7A81\u6642(\u5C0F)_4P"
+    Effect: {fileID: 7348450782210870193, guid: 86e80cd60141cd848aaa1f0d5a36bf8d,
+      type: 3}
+  - name: "\u30D7\u30EC\u30A4\u30E4\u30FC\u885D\u7A81\u6642(\u5927)"
+    Effect: {fileID: 6006972706712093842, guid: ba0d74f65aaf64c489d81a5d04c8be9d,
+      type: 3}
+  - name: "\u30D7\u30EC\u30A4\u30E4\u30FC\u885D\u7A81\u6642(\u4E2D)"
+    Effect: {fileID: 4182240023298242045, guid: 989cf37c85f2b6a4bb92244f0a2f96a7,
+      type: 3}
+  - name: "\u30D7\u30EC\u30A4\u30E4\u30FC\u885D\u7A81\u6642(\u5C0F)"
+    Effect: {fileID: 736048653810133986, guid: 81629152f5c2bde448790f56aed444ee, type: 3}
+  - name: "\u5FC5\u6BBA\u6280_\u58C1\u885D\u6483\u6CE2_1P"
+    Effect: {fileID: 6047085627274508499, guid: 37e4306857b676542965b003f18e909f,
+      type: 3}
+  - name: "\u5FC5\u6BBA\u6280_\u58C1\u885D\u6483\u6CE2_2P"
+    Effect: {fileID: 3457571673416576805, guid: 47200de7af3871f42846744d377f2a46,
+      type: 3}
+  - name: "\u5FC5\u6BBA\u6280_\u58C1\u885D\u6483\u6CE2_3P"
+    Effect: {fileID: 9070821246736494889, guid: c0b43ac0937cd094ca367ede9bd13955,
+      type: 3}
+  - name: "\u5FC5\u6BBA\u6280_\u58C1\u885D\u6483\u6CE2_4P"
+    Effect: {fileID: 9088725091017792457, guid: 83fdf08c18439004d839f07825b33b16,
+      type: 3}
+  - name: "\u7206\u767A"
+    Effect: {fileID: 2762621110500581215, guid: d1d94e17c87a3f6428dc56338ccd0825,
+      type: 3}
+  - name: "\u56DE\u5FA9\u7206\u767A"
+    Effect: {fileID: 2762621110500581215, guid: 5f01ae1323445124f9a5cf8557428acf,
+      type: 3}
+  - name: ReadyGo
+    Effect: {fileID: 2762621110500581215, guid: 5f01ae1323445124f9a5cf8557428acf,
+      type: 3}

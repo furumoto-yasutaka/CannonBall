@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8319319764025543398
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 589209366746106138, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_playerSpMovePoint
+      value: 
+      objectReference: {fileID: 8966335840786786242}
+    - target: {fileID: 2080749487211686424, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 7575338d32021d7408cf955de55cc727, type: 2}
+    - target: {fileID: 2969760073757527595, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920222799994093998, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4942630294740234468, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_kickPlayerPower
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 4942630294740234468, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_kickPlayerRecoil
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4942630294740234468, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_kickPlatformPower
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 4942630294740234468, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_inertiaPowerRate_Platform.x
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4942630294740234468, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_inertiaPowerRate_Platform.y
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5184761966741699640, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 1c4eac244a9cba3448f65f979ac777f6, type: 2}
+    - target: {fileID: 6197605618164123691, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197605618164123691, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197605618164123691, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197605618164123691, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197605618164123691, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197605618164123691, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197605618164123691, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197605618164123691, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197605618164123691, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197605618164123691, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6624045416884285555, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6624045416884285555, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.013089582
+      objectReference: {fileID: 0}
+    - target: {fileID: 6624045416884285555, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.99991435
+      objectReference: {fileID: 0}
+    - target: {fileID: 6624045416884285555, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7318792768236800935, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_kickRetractSpeed
+      value: 3.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 7318792768236800935, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_kickStickOutSpeed
+      value: 8.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8637960045102296574, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_rb
+      value: 
+      objectReference: {fileID: 4587703123941902351}
+    - target: {fileID: 8737397212142735774, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_Name
+      value: Player_CannonFight_Balance
+      objectReference: {fileID: 0}
+    - target: {fileID: 9150995467443917226, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 839326199669369069, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2, type: 3}
+    - {fileID: 2489112630493440779, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2, type: 3}
+    - {fileID: 7714842753030262079, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8737397212142735774, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8966335840786786242}
+  m_SourcePrefab: {fileID: 100100000, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2, type: 3}
+--- !u!4 &297368663877699664 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8598600968459928246, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+    type: 3}
+  m_PrefabInstance: {fileID: 8319319764025543398}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &735583482362764152 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8737397212142735774, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+    type: 3}
+  m_PrefabInstance: {fileID: 8319319764025543398}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8966335840786786242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 735583482362764152}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 222bb9e2642ff9044a438eda346bb1b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_spMovePointMax: 80
+  m_spMovePoint: 0
+  m_isUseBeKickedPattern: 1
+  m_bekickedPatternRateOfUp: 1
+  m_isUseKickPattern: 1
+  m_kickPatternRateOfUp: 1
+  m_isUseBeKilledPattern: 1
+  m_bekilledPatternRateOfUp: 10
+  m_isUseTimePattern: 1
+  m_timePatternRateOfUp: 0.15
+  m_timePatternRankMag:
+  - 1
+  - 1.25
+  - 1.5
+  - 2
+  m_isCanSpMoveEffect: {fileID: 5309825406421440356}
+  m_spmoveChargeEffect: {fileID: 297368663877699664}
+  m_spMoveActivationTime: 12
+  m_isChangeDuringSpMove_KickStickOutSpeed: 0
+  m_duringSpMove_KickStickOutSpeed: 0
+  m_isChangeDuringSpMove_KickRetractSpeed: 1
+  m_duringSpMove_KickRetractSpeed: 2.5
+  m_isChangeDuringSpMove_KickPlatformPower: 0
+  m_duringSpMove_KickPlatformPower: 0
+  m_isChangeDuringSpMove_KickPlayerPower: 1
+  m_duringSpMove_KickPlayerPower: 30
+  m_isChangeDuringSpMove_IsNotPassiveKick: 1
+  m_duringSpMove_IsNotPassiveKick: 1
+  m_isChangeDuringSpMove_NotPassiveTime: 1
+  m_duringSpMove_NotPassiveTime: 0.8
+--- !u!50 &4587703123941902351 stripped
+Rigidbody2D:
+  m_CorrespondingSourceObject: {fileID: 5539113701260444393, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+    type: 3}
+  m_PrefabInstance: {fileID: 8319319764025543398}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5309825406421440356 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4234618592323771778, guid: a6c08efc7c9c58e4e849ae1ce5f3ada2,
+    type: 3}
+  m_PrefabInstance: {fileID: 8319319764025543398}
+  m_PrefabAsset: {fileID: 0}

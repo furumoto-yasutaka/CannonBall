@@ -1,0 +1,248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1311683878538043573
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1352144518920320415, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: cfed587c21cb6f543a751af95e4f7dda, type: 2}
+    - target: {fileID: 6218202002516532191, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_Name
+      value: Player_DangerRun
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165535381737414724, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_kickPlayerPower
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800067564302816361, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_kickRetractSpeed
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7800067564302816361, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_kickStickOutSpeed
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 8459485926565420902, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8459485926565420902, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8459485926565420902, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8459485926565420902, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721313893931811434, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9184707799747450565, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 7800067564302816361, guid: 8effabc44573c4448bf6529d56aa4bdb, type: 3}
+    - {fileID: 7165535381737414724, guid: 8effabc44573c4448bf6529d56aa4bdb, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6218202002516532191, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      insertIndex: 4
+      addedObject: {fileID: 1560628724763019127}
+    - targetCorrespondingSourceObject: {fileID: 6218202002516532191, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      insertIndex: 5
+      addedObject: {fileID: 619388166140926152}
+    - targetCorrespondingSourceObject: {fileID: 6218202002516532191, guid: 8effabc44573c4448bf6529d56aa4bdb,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4994310814421051900}
+  m_SourcePrefab: {fileID: 100100000, guid: 8effabc44573c4448bf6529d56aa4bdb, type: 3}
+--- !u!60 &1380257245617383476 stripped
+PolygonCollider2D:
+  m_CorrespondingSourceObject: {fileID: 77582843214235777, guid: 8effabc44573c4448bf6529d56aa4bdb,
+    type: 3}
+  m_PrefabInstance: {fileID: 1311683878538043573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1949313384666362451 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 664654485811761894, guid: 8effabc44573c4448bf6529d56aa4bdb,
+    type: 3}
+  m_PrefabInstance: {fileID: 1311683878538043573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4236455870987491314 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2954048694637180743, guid: 8effabc44573c4448bf6529d56aa4bdb,
+    type: 3}
+  m_PrefabInstance: {fileID: 1311683878538043573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4882132700929391454 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5905582895080872939, guid: 8effabc44573c4448bf6529d56aa4bdb,
+    type: 3}
+  m_PrefabInstance: {fileID: 1311683878538043573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4935791599948086122 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6218202002516532191, guid: 8effabc44573c4448bf6529d56aa4bdb,
+    type: 3}
+  m_PrefabInstance: {fileID: 1311683878538043573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1560628724763019127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4935791599948086122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43112a3b6a51b85439f9ea28ffe3997a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_leg: {fileID: 8752227621861829466}
+  m_legCollision: {fileID: 1380257245617383476}
+  m_legParent: {fileID: 4882132700929391454}
+  m_bodyCollision: {fileID: 8505437314929417493}
+  m_respawnBox: {fileID: 7998037383049003747}
+  m_kickEffectParent: {fileID: 4236455870987491314}
+  m_type: 0
+  m_kickDir: {x: 0, y: 0}
+  m_kickStickOutSpeed: 12
+  m_kickRetractSpeed: 6
+  m_headbuttTime: 1
+  m_headbuttKeepSpeed: 2
+  m_headbuttMass: 5
+  m_moveSpeed: 2
+  m_moveDecaySpeed: 0.8
+  m_moveSpeedMax: 2.5
+  m_revivalInvincible: 2
+  m_bumperIgnore: 0
+  m_state: 2
+--- !u!114 &619388166140926152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4935791599948086122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97e266aabe176ba4f8def83204010990, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_kickPlatformPower: 9
+  m_kickPlayerPower: 5
+  m_kickPlayerRecoil: 4
+  m_kickAngularPower: 15
+  m_inertiaPowerRate_Platform: {x: 0.3, y: 0.1}
+  m_inertiaPowerRate_Player: 0.5
+  m_isNotPassiveKick: 0
+  m_notPassiveTime: 1
+  m_isNotPassive: 0
+  m_headbuttBasePower: 10
+  m_headbuttAddRate: 0.2
+  m_blownawayEffObj: {fileID: 1949313384666362451}
+  m_blownawayEffHideThreshold: 10
+  m_vibrationThreshold: 5
+  m_vibrationMaxThreshold: 25
+  m_kickRespawnPower: 10
+--- !u!114 &4994310814421051900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4935791599948086122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b580233d9dc0bd24fbb72382d1eadf1f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &7998037383049003747 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8992198713857516118, guid: 8effabc44573c4448bf6529d56aa4bdb,
+    type: 3}
+  m_PrefabInstance: {fileID: 1311683878538043573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!58 &8505437314929417493 stripped
+CircleCollider2D:
+  m_CorrespondingSourceObject: {fileID: 7223047734363012512, guid: 8effabc44573c4448bf6529d56aa4bdb,
+    type: 3}
+  m_PrefabInstance: {fileID: 1311683878538043573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8752227621861829466 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7728776397068585967, guid: 8effabc44573c4448bf6529d56aa4bdb,
+    type: 3}
+  m_PrefabInstance: {fileID: 1311683878538043573}
+  m_PrefabAsset: {fileID: 0}

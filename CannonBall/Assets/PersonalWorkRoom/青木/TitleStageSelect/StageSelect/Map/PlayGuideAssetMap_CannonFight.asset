@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c349442cebad845906f194442b2d12, type: 3}
+  m_Name: PlayGuideAssetMap_CannonFight
+  m_EditorClassIdentifier: 
+  m_SpawBombMap:
+  - m_GuideSprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
+      type: 3}
+    m_GuideText: {fileID: 4900000, guid: f656c350e1350ae44ad7d36fcf8d6af9, type: 3}
+  - m_GuideSprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
+      type: 3}
+    m_GuideText: {fileID: 4900000, guid: 47ef1eed0f9e55745a7913a75a136a59, type: 3}
+  - m_GuideSprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
+      type: 3}
+    m_GuideText: {fileID: 4900000, guid: b76239c2e75e4d640a3595ecf8c05efb, type: 3}
+  m_GuideObject:
+  - {fileID: 6823501322560294156, guid: 834361d7b934c81439234660a4e12f77, type: 3}
+  - {fileID: 6823501322560294156, guid: 834361d7b934c81439234660a4e12f77, type: 3}
+  - {fileID: 6823501322560294156, guid: 834361d7b934c81439234660a4e12f77, type: 3}

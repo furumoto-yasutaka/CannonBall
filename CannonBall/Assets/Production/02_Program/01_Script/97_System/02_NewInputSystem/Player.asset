@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4269b393dd9d24443a3d576afadc9320, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  m_mapName: Player
+  m_inputActionList_Button:
+  - m_actionName: Reverse_Joycon
+    m_joyconActionIdList_Inspector: 0700000006000000
+    m_padActionIdList_Inspector: 
+  - m_actionName: Kick_Pad
+    m_joyconActionIdList_Inspector: 
+    m_padActionIdList_Inspector: 15000000
+  - m_actionName: SpMove
+    m_joyconActionIdList_Inspector: 04000000050000000600000007000000
+    m_padActionIdList_Inspector: 08000000090000000a0000000b000000
+  m_inputActionList_Trigger: []
+  m_inputActionList_Vector2:
+  - m_actionName: Move
+    m_joyconActionIdList_Inspector: 01000000
+    m_padActionIdList_Inspector: 0100000000000000
+  - m_actionName: KickDir_Pad
+    m_joyconActionIdList_Inspector: 
+    m_padActionIdList_Inspector: 02000000
+  m_inputActionList_Vector3:
+  - m_actionName: Gyro
+    m_joyconActionIdList_Inspector: 00000000
+    m_padActionIdList_Inspector: 
+  - m_actionName: Accel
+    m_joyconActionIdList_Inspector: 01000000
+    m_padActionIdList_Inspector: 

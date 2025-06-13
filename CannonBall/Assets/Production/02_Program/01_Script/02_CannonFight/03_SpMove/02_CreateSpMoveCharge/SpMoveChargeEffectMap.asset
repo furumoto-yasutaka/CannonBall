@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c7d8844f948fbd459f5aa31ec3f5607, type: 3}
+  m_Name: SpMoveChargeEffectMap
+  m_EditorClassIdentifier: 
+  m_Effects:
+  - {fileID: 5480979953784545396, guid: 225799d1efec0a84491ff62f84cd3d31, type: 3}
+  - {fileID: 5730230154356233517, guid: 993a4a286ddfa2844951c9898456217d, type: 3}
+  - {fileID: 2485734626659533809, guid: 6b48611ccc3e97d4281d497511594d67, type: 3}
+  - {fileID: 6571891270008844052, guid: cfffcbf0d21fb7c4491e3a978953889e, type: 3}
